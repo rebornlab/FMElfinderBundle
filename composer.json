@@ -5,7 +5,6 @@
     "type": "symfony-bundle",
     "homepage": "https://github.com/helios-ag/FMElfinderBundle",
     "license": "MIT",
-    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Al Ganiev",
